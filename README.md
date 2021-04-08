@@ -1,3 +1,3 @@
 # Coding-Challenges
 
-maxSumSubArr == Maximum Sum Subarray / Maximum Contigouos Subarray Sum
+Trying some coding challenges for practice
